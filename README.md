@@ -45,12 +45,3 @@ npm install
 
 
 node app.js
-
-
-![Home Page](assets/HOME-PAGE.png)
-
-![Login Page](assets/LOGIN.png)
-
-![Register Page](assets/REGISTER.png)
-
-![Dashboard Page](assets/DASHBOARD.png)
